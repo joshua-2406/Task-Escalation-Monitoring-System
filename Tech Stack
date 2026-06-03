@@ -1,0 +1,7 @@
+Layer              Technology
+Frontend / UI      Streamlit
+Data Storage       Google Sheets (via gspread)
+Authentication     Google Service Account
+Analytics & Charts  Pandas, Plotly / Streamlit Charts
+Escalation Logic    Python (custom workflow engine)
+Deployment          Streamlit Cloud (planned)
